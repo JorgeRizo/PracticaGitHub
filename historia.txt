@@ -17,4 +17,7 @@ Septima linea, esta fue añadida desde github, para probar el pull.
 
 Octava linea creada por Wendy.
 
-A esta linea estoy agrgando otra más pero esta vez lo esta haciendo Jorge. 
+A esta linea estoy agrgando otra más pero esta vez lo esta haciendo Jorge.
+
+Esta linea es para probar ya los merge con dos personas que estan trabajando en alguna parte del proyecto, y 
+que cuando finalizan entonces deben hacer un merge con master en el repo.
