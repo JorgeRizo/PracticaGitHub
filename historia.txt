@@ -15,6 +15,13 @@ Septima linea, esta fue añadida desde github, para probar el pull.
 
 
 
-Octava linea creada por Wendy.
 
-A esta linea estoy agrgando otra más pero esta vez lo esta haciendo Jorge. 
+
+
+
+
+
+
+Esta es la linea del footer que se modifica para probar el trabajo colaborativo.
+Realizada por Wendy.
+>>>>>>> footer
