@@ -15,11 +15,15 @@ Septima línea, esta fue añadida desde github, para probar el pull.
 
 
 
-Octava línea creada por Wendy.
 
-A esta línea estoy agrgando otra más pero esta vez lo esta haciendo Jorge.
 
-Esta línea es para probar ya los merge con dos personas que estan trabajando en alguna parte del proyecto, y 
-que cuando finalizan entonces deben hacer un merge con master en el repo.
 
-Nueva linea insertada. Probando Pull request.
+
+
+
+
+
+Esta es la linea del footer que se modifica para probar el trabajo colaborativo.
+Realizada por Wendy.
+
+
