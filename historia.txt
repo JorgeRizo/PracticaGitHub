@@ -1,23 +1,23 @@
 Este es un archivo de prueba, y mas pruebas.
 Y adicional hice un cambio de una linea mas.
 
-Agregando una segunda linea
+Agregando una segunda línea
 
-Agregando una tercera linea y modificando la anterior los puntos..
+Agregando una tercera línea y modificando la anterior los puntos..
 
-Otra linea la cuarta.
+Otra línea la cuarta.
 
-Quinta linea.....
+Quinta línea.....
 
-Sexta linea, probando hacer un push al repo remoto de github.
+Sexta línea, probando hacer un push al repo remoto de github.
 
-Septima linea, esta fue añadida desde github, para probar el pull.
+Septima línea, esta fue añadida desde github, para probar el pull.
 
 
 
-Octava linea creada por Wendy.
+Octava línea creada por Wendy.
 
-A esta linea estoy agrgando otra más pero esta vez lo esta haciendo Jorge.
+A esta línea estoy agrgando otra más pero esta vez lo esta haciendo Jorge.
 
-Esta linea es para probar ya los merge con dos personas que estan trabajando en alguna parte del proyecto, y 
+Esta línea es para probar ya los merge con dos personas que estan trabajando en alguna parte del proyecto, y 
 que cuando finalizan entonces deben hacer un merge con master en el repo.
