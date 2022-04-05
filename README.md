@@ -6,6 +6,8 @@ Estaremos viendo practicas como:
 - Creaciones, eliminacion de ramas.
 - Generacion y vinculacion de protocolo de seguridad SSH.
 - Solucion de conflictos al crear algunos merge.
+- Consulta historica de cambios de un archivo.
+
 
 Entre otros. 
 
