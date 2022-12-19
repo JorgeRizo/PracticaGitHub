@@ -1,3 +1,8 @@
+
+# PracticaGitHub
+Practica GitHub y Git
+Footer desde rama footer 19 dic 2022
+
 # Practica Git & GitHub
 
 Siendo estas herramientas las mas usadas en el medio tecnologico en el desarrollo de software como una de las tecnologías para el manejo de versiones de software colaborativo. 
@@ -43,16 +48,10 @@ The <abbr title="Git">GIT</abbr> specification is maintained by the <abbr title=
 ##Headers (Underline)
 
 H1 Header (Underline)
-=============
-
 H2 Header (Underline)
--------------
-
 ###Characters
                 
-----
-
-~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
+~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
 *Italic*      _Italic_
 **Emphasis**  __Emphasis__
 ***Emphasis Italic*** ___Emphasis Italic___
@@ -62,3 +61,4 @@ Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
 
 
 ###End
+
