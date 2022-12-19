@@ -1,17 +1,18 @@
 Este es un archivo de prueba, y mas pruebas.
 Y adicional hice un cambio de una linea mas.
 
-Agregando una segunda linea
+Agregando una segunda línea
 
-Agregando una tercera linea y modificando la anterior los puntos..
+Agregando una tercera línea y modificando la anterior los puntos..
 
-Otra linea la cuarta.
+Otra línea la cuarta.
 
-Quinta linea.....
+Quinta línea.....
 
-Sexta linea, probando hacer un push al repo remoto de github.
+Sexta línea, probando hacer un push al repo remoto de github.
 
-Septima linea, esta fue añadida desde github, para probar el pull.
+Septima línea, esta fue añadida desde github, para probar el pull.
+
 
 
 
@@ -27,3 +28,4 @@ Realizada por Wendy.
 
 Una nueva linea por que me equivoque para finalizar el commit, luego de hacer el merge y enviar a
 repo remoto
+Prueba Rebase 1 en Master
