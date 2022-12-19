@@ -7,7 +7,7 @@ Estaremos viendo practicas como:
 - Generacion y vinculacion de protocolo de seguridad SSH.
 - Solucion de conflictos al crear algunos merge.
 - Consulta historica de cambios de un archivo.
-
+- Nueva linea desde repo colaborador wendy en README.md 19 dic 2022.
 
 Entre otros. 
 
